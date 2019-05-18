@@ -1,19 +1,15 @@
 #TOOLS PRIVAT
-#colors
-
-cowsay -f eyes Tampansky | lolcat
-figlet -f emboss Tampansky | lolcat
 echo
-echo "----------------------------------------"| lolcat
+echo "----------------------------------------"
 echo "[AUTHOR : TAMPANSKY]"
 echo "[SUPORTED BY : MY FAMILY]"
 echo "[MY TEAM : RED EYE CYBER TEAM]"
 echo "[MY contek : 087887986528]"
 echo "[THANKS YOU MY GIRLFRIENDS And My MOTHER]"
 echo "[FOR SUPORTED MY :)]"
-echo "-----------------------------------------'| lolcat
+echo "-----------------------------------------'
 echo
-sleep 0.100
+sleep 1
 git clone https://github.com/ashishb/android-malware
 echo -e "${y} Cara membuat virus mematikan"
 echo -e "${y} cd android-malware"
