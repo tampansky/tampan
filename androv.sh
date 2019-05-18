@@ -1,8 +1,8 @@
 #TOOLS PRIVAT
 #colors
 
-figlet Tampansky | lolcat
-figlet -f emboss LORD | lolcat
+cowsay -f eyes Tampansky | lolcat
+figlet -f emboss Tampansky | lolcat
 echo
 echo "----------------------------------------"| lolcat
 echo "[AUTHOR : TAMPANSKY]"
